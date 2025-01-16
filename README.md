@@ -5,3 +5,5 @@ Solução tecnológica avançada que integra dados, ferramentas de análise com 
 Utilizando tecnologias modernas, robusta e escalaveis.
 
 LiquidBase.
+
+Visao completa dos colaboradores envolvidos no processo Devops.
