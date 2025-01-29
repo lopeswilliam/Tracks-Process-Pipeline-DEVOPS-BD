@@ -7,3 +7,6 @@ Utilizando tecnologias modernas, robusta e escalaveis.
 LiquidBase.
 
 Visao completa dos colaboradores envolvidos no processo Devops.
+
+
+https://www.linkedin.com/company/tracks-i-a-innovation/?viewAsMember=true
